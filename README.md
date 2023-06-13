@@ -14,6 +14,7 @@ On your local machine, clone the repository by executing the following command i
 
 ```bash
 git clone https://github.com/zicula/RandomUserApiApplication.git
+```
 
 ## Open the Project in IntelliJ IDEA:
 
