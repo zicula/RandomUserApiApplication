@@ -37,6 +37,6 @@ git clone https://github.com/zicula/RandomUserApiApplication.git
 6. After successfully starting the application, you can access it by opening a web browser and navigating to http://localhost:8089, or another port if you have configured it differently from the default. (edit port at -> src/main/resources/application.properties)
 
 ## API: Get RandomUser Data
-7. http://127.0.0.1:8089/v1/users/{seed}
+7. go to http://127.0.0.1:8089/v1/users/{seed}
 
 {seed} is the unique identifier associated with each user. Replace {seed} with the actual seed value of the user.
