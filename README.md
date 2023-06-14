@@ -33,6 +33,6 @@ After successfully starting the application, you can access it by opening a web 
 
 
 ### 6. API: Get RandomUser Data
-go to http://127.0.0.1:8089/v1/users/{seed}
+go to http://localhost:8089/v1/users/{seed}
 {seed} is the unique identifier associated with each user. Replace {seed} with the actual seed value of the user.
-> example: http://127.0.0.1:8089/v1/users/test1
+> example: http://localhost:8089/v1/users/test1
